@@ -1,3 +1,54 @@
+# QuickCart 🛒
+
+A React-based e-commerce frontend for browsing and purchasing products. This app demonstrates fetching products, navigating pages, sorting items, and searching with auto-suggestions.
+
+---
+
+## 🔗 Live Link
+- **Frontend (Vercel):** [QuickCart Live](https://quick-cart-knvh.vercel.app/)
+
+---
+
+## 🛠 Tech Stack
+- **Frontend:** React  
+- **Programming Language:** JavaScript (ES6)  
+- **Markup & Styling:** HTML & CSS  
+
+---
+
+## ⚡ Features
+- Responsive **Navbar** and **Sidebar**  
+- **Product Listing** with dynamic product cards  
+- **Sorting & filtering** of products  
+- **Search functionality** with auto-suggestions  
+- Fetching **featured products**  
+
+---
+
+
+
+## 🚀 Getting Started
+1. Clone the repository:
+```bash
+git clone https://github.com/YOUR_USERNAME/QuickCart.git
+```
+2. Install dependencies:
+```bash
+npm install
+```
+3. Start the development server:
+```bash
+npm start
+```
+
+---
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
