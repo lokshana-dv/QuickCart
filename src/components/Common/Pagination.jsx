@@ -1,5 +1,8 @@
 import React from 'react';
-import './pagination.css';
+import "./Pagination.css";
+
+
+
 
 const Pagination = ({ totalPosts, postsPerPage, onClick, currentPage }) => {
   let pages = [];
